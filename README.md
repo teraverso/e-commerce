@@ -6,7 +6,7 @@ Desenvolver uma loja virtual completa.
 
 **Justificativa**
 
-Um e-commerce é mais que uma página da web estática, é uma página dinâmica que permite que cada usuário tenha seu cadastro e ambiente privativo, além disso um site de loja virtual integra sistema de cadastro, login e recuperação de senha, banco de dados, insersão e controle de estoque de produtos, pagamento e rastreamento de entregas.
+Um e-commerce é mais que uma página da web estática, é uma página dinâmica que permite que cada usuário tenha seu cadastro e ambiente privativo, além disso um site de loja virtual integra sistema de cadastro, login e recuperação de senha, banco de dados, inserção e controle de estoque de produtos, pagamento e rastreamento de entregas.
 
 **Sobre o projeto**
 
