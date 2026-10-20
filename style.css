@@ -1,0 +1,27 @@
+﻿/* CSS Básico para garantir a responsividade */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    padding: 20px;
+    color: #333;
+}
+
+header, main, footer {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 15px;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+/* Estilização da sua div quadrada */ .meu-quadrado { width: 300px; /* Largura definida */ height: 300px; /* Altura idêntica para ser um quadrado perfeito */ background-color: #f0f0f0; /* Cor de fundo para você conseguir enxergar o campo */ border: 2px solid #333; /* Uma borda ao redor */ padding: 15px; /* Espaço interno para o texto não encostar na borda */ box-sizing: border-box; /* Garante que o padding não aumente o tamanho total do quadrado */ }
