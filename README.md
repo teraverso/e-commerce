@@ -14,7 +14,7 @@ A ideia do projeto veio após conclusão do módulo de Desenvolvimento Web, na f
 
 ## Etapas 
 
-Fase 1. Desenvolvimento de página simples em HTML e CSS contendo Cadastro, Login, Carrinho de Compras, Formas de Pagamento e Itens a venda. 
+Fase 1. Desenvolvimento de página simples em HTML e CSS contendo Cadastro, Login, Carrinho de Compras, Formas de Pagamento e Itens à venda. 
 
 Status: Concluído
 
